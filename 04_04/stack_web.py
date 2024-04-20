@@ -2,6 +2,7 @@ import keyboard
 import time
 from getkey import getkey
 
+
 class stack_list:
     def __init__(self):
         self.items = []
@@ -32,11 +33,10 @@ stk.push("http://www.donga.ac.kr")
 print(stk.items)
 
 while True:
-   if keyboard.is_pressed('left'):
-       time.sleep(0.1)
-       stk.pop()
-       print(stk.items)
-   elif  keyboard.is_pressed('q'):
-       time.sleep(0.1)
-       break;
-
+    if keyboard.is_pressed('left'):
+        time.sleep(0.1)
+        stk.pop()
+        print(stk.items)
+    elif keyboard.is_pressed('q'):
+        time.sleep(0.1)
+        break
