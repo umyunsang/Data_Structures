@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="818131b5-6298-45ea-a894-e55e91e18530" name="Changes" comment="practice">
+    <list default="true" id="818131b5-6298-45ea-a894-e55e91e18530" name="Changes" comment="modifiy">
       <change afterPath="$PROJECT_DIR$/btree/TreeNode.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/btree/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_14/03_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/slist/03_14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_14/slist.py" beforeDir="false" afterPath="$PROJECT_DIR$/slist/slist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_19/03_19.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/single/03_19.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_19/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/single/ex01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_19/singlelist.py" beforeDir="false" afterPath="$PROJECT_DIR$/single/singlelist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_21/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/singlelist/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_21/singlelist.py" beforeDir="false" afterPath="$PROJECT_DIR$/singlelist/singlelist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_26/doublelinked.py" beforeDir="false" afterPath="$PROJECT_DIR$/doublelinklist/doublelinked.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_26/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/doublelinklist/ex01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_02/circlelist.py" beforeDir="false" afterPath="$PROJECT_DIR$/ciclelist/circlelist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_02/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ciclelist/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_04/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/stacklist/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_04/stack_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/stacklist/stack_web.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_04/stacklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/stacklist/stacklist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_09/cStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/cStack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_09/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_09/postfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/postfix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_09/stacklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stack/stacklist.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_11/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/ex01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_11/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_11/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue/queue.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,12 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1713780613017</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="modifiy">
+      <option name="closed" value="true" />
+      <created>1715042903714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715042903714</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modify" />
     <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <MESSAGE value="modifiy" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifiy" />
   </component>
 </project>
