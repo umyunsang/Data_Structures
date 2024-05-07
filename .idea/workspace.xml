@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="818131b5-6298-45ea-a894-e55e91e18530" name="Changes" comment="modifiy">
-      <change afterPath="$PROJECT_DIR$/btree/TreeNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btree/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="818131b5-6298-45ea-a894-e55e91e18530" name="Changes" comment="Tree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,13 +101,22 @@
       <option name="project" value="LOCAL" />
       <updated>1715042903714</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tree">
+      <option name="closed" value="true" />
+      <created>1715043834077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715043834077</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modify" />
     <MESSAGE value="practice" />
     <MESSAGE value="modifiy" />
-    <option name="LAST_COMMIT_MESSAGE" value="modifiy" />
+    <MESSAGE value="Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree" />
   </component>
 </project>
