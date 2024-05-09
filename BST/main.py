@@ -16,3 +16,6 @@ if result is None:
     print("데이터가 존재하지 않습니다.")
 else:
     print(f'{search_data} 을/를 찾았습니다.')
+
+print("BST 중위 순회 결과")
+bst.inorder_print()

@@ -59,3 +59,14 @@ class BST:
             print()
 
         return
+
+    def inorder_print(self):
+        self.inorder_recursive(self.root)
+        print()
+
+    def inorder_recursive(self, node):
+        if node:
+            self.inorder_recursive(node.left)
+            print(node.data, end=' ')
+            self.inorder_recursive(node.right)
+
