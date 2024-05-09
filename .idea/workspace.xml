@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="818131b5-6298-45ea-a894-e55e91e18530" name="Changes" comment="Tree" />
+    <list default="true" id="818131b5-6298-45ea-a894-e55e91e18530" name="Changes" comment="Tree modifiy">
+      <change afterPath="$PROJECT_DIR$/BST/BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BST/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,13 +53,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\엄윤상\Desktop\CS\Data_Structures" />
@@ -109,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715043834077</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tree modifiy">
+      <option name="closed" value="true" />
+      <created>1715079646615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715079646615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -117,6 +129,7 @@
     <MESSAGE value="practice" />
     <MESSAGE value="modifiy" />
     <MESSAGE value="Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tree" />
+    <MESSAGE value="Tree modifiy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tree modifiy" />
   </component>
 </project>
