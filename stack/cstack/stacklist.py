@@ -7,7 +7,7 @@ class stack_list:
 
     def pop(self):
         if len(self.items) == 0:
-            return print("Stack is Empty")
+            return print("cstack is Empty")
         return self.items.pop()
 
     def topItem(self):

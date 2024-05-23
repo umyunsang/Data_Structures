@@ -14,10 +14,10 @@ class Stack:
      ## Head Node 생성
     def create_top(self):
         if self.top is not None:
-           return 98, "Stack has already been created"
+           return 98, "cstack has already been created"
 
         self.top = self.Node()
-        return 100, "Stack creation completed"
+        return 100, "cstack creation completed"
 
     ### PUSH 동작
     def push(self, data):
@@ -41,11 +41,11 @@ class Stack:
         self.size = self.size - 1
         return 100, "POP operation has been completed."
 
-    ### Items on the Stack => print
+    ### Items on the cstack => print
     def print_items(self):
         current = self.top
         if current.next is None:
-            return 98, "Empty Stack."
+            return 98, "Empty cstack."
 
         print("STACK ITEM LIST")
 

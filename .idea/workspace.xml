@@ -4,12 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="818131b5-6298-45ea-a894-e55e91e18530" name="Changes" comment="modify">
-      <change afterPath="$PROJECT_DIR$/sort/bubble_sort/bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/insertion_sort/insertion_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/selection_sort/selection_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/shell_sort/shell_sort.py" afterDir="false" />
+    <list default="true" id="818131b5-6298-45ea-a894-e55e91e18530" name="Changes" comment="sort">
+      <change afterPath="$PROJECT_DIR$/sort/merge_sort/merge_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort/quick_sort/quick_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AVI/AVL.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/AVI/AVL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AVI/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/AVI/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BST/BST.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/BST/BST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BST/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/BST/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/ex01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/ex02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/ex03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/cStack.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/cstack/cStack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/cstack/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/postfix.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/cstack/postfix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stack/stacklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/cstack/stacklist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btree/TreeNode.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/btree/TreeNode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btree/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/tree/btree/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciclelist/circlelist.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/ciclelist/circlelist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciclelist/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/ciclelist/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doublelinklist/doublelinked.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/doublelinklist/doublelinked.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doublelinklist/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/doublelinklist/ex01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single/03_19.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/single/03_19.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single/ex01.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/single/ex01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single/singlelist.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/single/singlelist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singlelist/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/singlelist/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singlelist/singlelist.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/singlelist/singlelist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slist/03_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/slist/03_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/slist/slist.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/slist/slist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacklist/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stacklist/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacklist/stack_web.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stacklist/stack_web.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacklist/stacklist.py" beforeDir="false" afterPath="$PROJECT_DIR$/stack/stacklist/stacklist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +49,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -64,6 +90,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\엄윤상\Desktop\CS\Data_Structures\tree" />
+      <recent name="C:\Users\엄윤상\Desktop\CS\Data_Structures\stack" />
+      <recent name="C:\Users\엄윤상\Desktop\CS\Data_Structures\list" />
       <recent name="C:\Users\엄윤상\Desktop\CS\Data_Structures\sort" />
       <recent name="C:\Users\엄윤상\Desktop\CS\Data_Structures" />
     </key>
@@ -164,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716443941628</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="sort">
+      <option name="closed" value="true" />
+      <created>1716445040176</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716445040176</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -175,6 +212,7 @@
     <MESSAGE value=" BST" />
     <MESSAGE value="AVL" />
     <MESSAGE value="modify" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify" />
+    <MESSAGE value="sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="sort" />
   </component>
 </project>
