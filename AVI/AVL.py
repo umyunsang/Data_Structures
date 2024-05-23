@@ -1,10 +1,13 @@
 from collections import deque
+
+
 class AVLNode:
     def __init__(self, data):
         self.data = data
         self.left = None
         self.right = None
         self.height = 1
+
 
 class AVLTree:
     def get_height(self, node):
@@ -69,7 +72,6 @@ class AVLTree:
         print(f"update node height: ", node.height)
         print()
 
-
         # Get the balance factor
         balance = self.get_balance(node)
 
@@ -125,7 +127,7 @@ class AVLTree:
         self.pre_order(node.left)
         self.pre_order(node.right)
 
-    def in_order(self,node):
+    def in_order(self, node):
         if not node:
             return
         if node:
