@@ -1,7 +1,7 @@
 from collections import deque
 
 
-def radixSort(nums):
+def LSDradixSort(nums):
     buckets = [deque() for _ in range(10)]
     max_val = max(nums)
     queue = deque(nums)
@@ -23,4 +23,4 @@ def radixSort(nums):
 
 
 nums = [153, 262, 37, 589, 433, 855]
-print(radixSort(nums))
+print(LSDradixSort(nums))
