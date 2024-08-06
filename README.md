@@ -1,6 +1,3 @@
-Certainly! Below is a README file for your repository based on the structure and features you've outlined:
-
----
 
 # Data Structures in Python
 
