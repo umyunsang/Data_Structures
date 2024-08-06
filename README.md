@@ -21,30 +21,63 @@ The repository is organized as follows:
 ```
 data-structures-in-python/
 │
-├── arrays/
-│   ├── array.py
-│   └── array_example.py
+├── list/
+│   ├── list/
+│   │   ├── list.py
+│   │   └── main.py
+│   ├── singlelist/
+│   │   ├── singlelist.py
+│   │   └── main.py
+│   ├── doublelinklist/
+│   │   ├── doublelinked.py
+│   │   └── main.py
+│   └── ciclelist/
+│       ├── ciclelist.py
+│       └── main.py
 │
-├── linked_lists/
-│   ├── singly_linked_list.py
-│   ├── doubly_linked_list.py
-│   └── linked_list_example.py
+├── stack/
+│   ├── cstack/
+│   │   ├── cStack.py
+│   │   ├── postfix.py
+│   │   └── main.py
+│   └── stacklist/
+│       ├── stacklist.py
+│       ├── stack_web.py
+│       └── main.py
 │
-├── stacks/
-│   ├── stack.py
-│   └── stack_example.py
+├── tree/
+│   ├── AVI/
+│   │   ├── AVL.py
+│   │   └── main.py
+│   ├── BST/
+│   │   ├── BST.py
+│   │   └── main.py
+│   └── btree/
+│       ├── TreeNode.py
+│       └── main.py
 │
 ├── queues/
 │   ├── queue.py
-│   └── queue_example.py
+│   └── maine.py
 │
-├── trees/
-│   ├── binary_tree.py
-│   └── tree_example.py
-│
-├── graphs/
-│   ├── graph.py
-│   └── graph_example.py
+├── sort/
+│   ├── bubble_sort/
+│   │   └── bubble_sort.py
+│   ├── heap_sort/
+│   │   └── heap_sort.py
+│   ├── insertion_sort/
+│   │   └── insertion_sort.py
+│   ├── merge_sort/
+│   │   └── merge_sort.py
+│   ├── quick_sort/
+│   │   └── quick_sort.py
+│   ├── selection_sort/
+│   │   └── selection_sort.py
+│   ├── shell_sort/
+│   │   └── shell_sort.py
+│   └── Radix_sort/
+│       ├── LSD_radix_sort.py
+│       └── MSD_radix_sort.py
 │
 └── README.md
 ```
