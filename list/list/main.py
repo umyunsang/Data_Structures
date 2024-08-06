@@ -1,4 +1,4 @@
-from slist import SList as sl
+from list import SList as sl
 
 if __name__ == '__main__':
     s = sl()

@@ -67,12 +67,12 @@ while choice != "7":
     else:
         print(" Wrong menu-number...")
 
-# slist.create_head()
+# list.create_head()
 #
-# slist.node_append("park")
-# slist.node_append("choi")
-# slist.node_append("lee")
-# slist.node_insert("choi", "hwang")
+# list.node_append("park")
+# list.node_append("choi")
+# list.node_append("lee")
+# list.node_insert("choi", "hwang")
 #
-# slist.all_print()
+# list.all_print()
 
