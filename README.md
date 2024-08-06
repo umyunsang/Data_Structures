@@ -1,137 +1,110 @@
+Certainly! Below is a README file for your repository based on the structure and features you've outlined:
 
 ---
 
 # Data Structures in Python
 
+Welcome to the **Data Structures in Python** repository! This project is a comprehensive guide to implementing various data structures in Python. It is designed to help you understand and apply these structures with practical examples and well-documented code. Whether you're just starting out or are looking to refresh your knowledge, you'll find valuable resources here.
+
 ## 📚 Introduction
 
-Welcome to the **Data Structures in Python** repository! This repository is a comprehensive collection of common data structures implemented in Python. Whether you are a beginner looking to understand the fundamentals or an experienced developer seeking a quick reference, this repository is designed to be a valuable resource for all.
+This repository covers a wide range of data structures and algorithms, offering detailed implementations and practical examples. It’s a perfect resource for both beginners and experienced developers who want to deepen their understanding of data structures and their applications.
 
 ## 🌟 Features
 
-- **Detailed Implementations**: Each data structure is implemented with clear, commented code to facilitate understanding.
-- **Practical Examples**: Real-world examples and use cases to demonstrate the application of each data structure.
-- **Extensive Coverage**: From basic structures like arrays and linked lists to advanced ones like trees and graphs.
-- **Educational Focus**: Aimed at learners and professionals alike to improve their coding skills and data structure knowledge.
+- **Detailed Implementations**: Clear and commented code for each data structure to help you understand how they work.
+- **Practical Examples**: Real-world use cases and examples to demonstrate the practical application of each data structure.
+- **Extensive Coverage**: From fundamental structures like arrays and linked lists to more complex ones like trees and graphs.
+- **Educational Focus**: Aimed at enhancing coding skills and knowledge of data structures for learners and professionals alike.
 
-## 📁 Structure
+## 📁 Repository Structure
 
-The repository is organized as follows:
+Here’s a breakdown of the repository's structure:
 
 ```
 data-structures-in-python/
 │
 ├── list/
 │   ├── list/
-│   │   ├── list.py
-│   │   └── main.py
+│   │   ├── list.py           # Implementation of basic list
+│   │   └── main.py           # Test script for list.py
 │   ├── singlelist/
-│   │   ├── singlelist.py
-│   │   └── main.py
+│   │   ├── singlelist.py     # Implementation of single linked list
+│   │   └── main.py           # Test script for singlelist.py
 │   ├── doublelinklist/
-│   │   ├── doublelinked.py
-│   │   └── main.py
+│   │   ├── doublelinked.py   # Implementation of double linked list
+│   │   └── main.py           # Test script for doublelinked.py
 │   └── ciclelist/
-│       ├── ciclelist.py
-│       └── main.py
+│       ├── ciclelist.py      # Implementation of circular list
+│       └── main.py           # Test script for ciclelist.py
 │
 ├── stack/
 │   ├── cstack/
-│   │   ├── cStack.py
-│   │   ├── postfix.py
-│   │   └── main.py
+│   │   ├── cStack.py         # Implementation of stack using array
+│   │   ├── postfix.py        # Postfix expression evaluation using stack
+│   │   └── main.py           # Test script for cStack.py
 │   └── stacklist/
-│       ├── stacklist.py
-│       ├── stack_web.py
-│       └── main.py
+│       ├── stacklist.py      # Implementation of stack using linked list
+│       ├── stack_web.py      # Stack operations with web interface
+│       └── main.py           # Test script for stacklist.py
 │
 ├── tree/
 │   ├── AVI/
-│   │   ├── AVL.py
-│   │   └── main.py
+│   │   ├── AVL.py            # Implementation of AVL tree
+│   │   └── main.py           # Test script for AVL.py
 │   ├── BST/
-│   │   ├── BST.py
-│   │   └── main.py
+│   │   ├── BST.py            # Implementation of Binary Search Tree (BST)
+│   │   └── main.py           # Test script for BST.py
 │   └── btree/
-│       ├── TreeNode.py
-│       └── main.py
+│       ├── TreeNode.py       # Basic tree node implementation
+│       └── main.py           # Test script for TreeNode.py
 │
 ├── queues/
-│   ├── queue.py
-│   └── maine.py
+│   ├── queue.py              # Implementation of queue
+│   └── maine.py              # Test script for queue.py
 │
 ├── sort/
 │   ├── bubble_sort/
-│   │   └── bubble_sort.py
+│   │   └── bubble_sort.py    # Implementation of bubble sort
 │   ├── heap_sort/
-│   │   └── heap_sort.py
+│   │   └── heap_sort.py      # Implementation of heap sort
 │   ├── insertion_sort/
-│   │   └── insertion_sort.py
+│   │   └── insertion_sort.py # Implementation of insertion sort
 │   ├── merge_sort/
-│   │   └── merge_sort.py
+│   │   └── merge_sort.py     # Implementation of merge sort
 │   ├── quick_sort/
-│   │   └── quick_sort.py
+│   │   └── quick_sort.py     # Implementation of quick sort
 │   ├── selection_sort/
-│   │   └── selection_sort.py
+│   │   └── selection_sort.py # Implementation of selection sort
 │   ├── shell_sort/
-│   │   └── shell_sort.py
+│   │   └── shell_sort.py     # Implementation of shell sort
 │   └── Radix_sort/
-│       ├── LSD_radix_sort.py
-│       └── MSD_radix_sort.py
+│       ├── LSD_radix_sort.py # Implementation of LSD radix sort
+│       └── MSD_radix_sort.py # Implementation of MSD radix sort
 │
-└── README.md
+└── README.md                  # This file
 ```
 
-## 🚀 Getting Started
+## 🛠 How to Use
 
-1. **Clone the Repository**
-
-   ```sh
-   git clone https://github.com/yourusername/data-structures-in-python.git
-   cd data-structures-in-python
+1. **Clone the Repository**: 
+   ```bash
+   git clone https://github.com/umyunsang/Data_Structures.git
+   ```
+2. **Navigate to the Desired Directory**: 
+   ```bash
+   cd Data_Structures/list
+   ```
+3. **Run the Code**:
+   ```bash
+   python main.py
    ```
 
-2. **Navigate to a Data Structure**
+## 📜 Contribution
 
-   Choose a data structure you are interested in:
-
-   ```sh
-   cd arrays
-   ```
-
-3. **Run the Examples**
-
-   Execute the example scripts to see the data structures in action:
-
-   ```sh
-   python array_example.py
-   ```
-
-## 🛠️ Usage
-
-Each data structure folder contains two main files:
-- The implementation file (e.g., `array.py`): This file contains the class definition and methods for the data structure.
-- The example file (e.g., `array_example.py`): This file demonstrates how to use the data structure with practical examples.
-
-## 🤝 Contributing
-
-We welcome contributions! If you have an improvement or a new data structure to add, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
-3. Implement your changes and commit them with clear messages.
-4. Push to your fork and create a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👏 Acknowledgements
-
-A big thank you to all contributors and the open-source community for their support and inspiration. Together, we are making learning and coding more accessible and enjoyable for everyone.
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance this repository. If you have suggestions for additional data structures or improvements, please let us know!
 
 ---
 
-Dive into the fascinating world of data structures and enhance your Python skills with this repository. Happy coding! 🐍✨
+Happy coding and happy learning! 🚀
 
----
