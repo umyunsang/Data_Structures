@@ -3,6 +3,23 @@
 
 Welcome to the **Data Structures in Python** repository! This project is a comprehensive guide to implementing various data structures in Python. It is designed to help you understand and apply these structures with practical examples and well-documented code. Whether you're just starting out or are looking to refresh your knowledge, you'll find valuable resources here.
 
+---
+
+## 📁 Data Structures Study Repository
+
+Explore a comprehensive collection of resources that will help you master Data Structures concepts and techniques. The **Study Repository** is your go-to destination for deeper learning, offering a variety of study guides, practice projects, and exam resources.
+
+### 📘 What You’ll Find in the Study Repository
+
+- **In-Depth Study Guides**: Detailed materials covering fundamental and advanced data structures, ideal for expanding your knowledge beyond the basics.
+- **Practical Projects**: Engage in hands-on projects designed to reinforce your understanding and build a strong portfolio.
+- **Exam Resources**: Prepare for assessments with past exams, quizzes, and solution guides.
+
+### 🌐 **[Access the Study Repository](https://github.com/umyunsang/Obsidian/tree/main/Obsidian/ComputerScience/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%A1%B0)**
+
+---
+
+Replace the placeholder link with the actual URL where the Data Structures resources can be accessed. This structure provides a clear and inviting overview of what learners can expect, while also mirroring the original AI repository's format.
 ## 📚 Introduction
 
 This repository covers a wide range of data structures and algorithms, offering detailed implementations and practical examples. It’s a perfect resource for both beginners and experienced developers who want to deepen their understanding of data structures and their applications.
