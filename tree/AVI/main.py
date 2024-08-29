@@ -8,4 +8,4 @@ items = [43, 49, 84]
 for item in items:
     root = avl.insert(root, item)
 
-avl.levelOrder(root)
+avl.level_order(root)
